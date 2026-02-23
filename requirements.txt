@@ -1,0 +1,25 @@
+# Core data processing
+pandas==2.1.4
+numpy==1.26.4
+openpyxl==3.1.2
+
+# Machine Learning
+scikit-learn==1.3.2
+sentence-transformers==2.2.2
+
+# Text processing
+regex==2023.12.25
+
+# Power BI integration (for future use)
+requests==2.31.0
+azure-identity==1.15.0
+msal==1.24.1
+
+# Configuration and environment
+python-dotenv==1.0.0
+
+# Logging and utilities
+tqdm==4.66.1
+
+# Optional: For faster CSV processing
+pyarrow==14.0.2
